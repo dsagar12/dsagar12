@@ -17,7 +17,7 @@ Hello! I'm **Sagar Dhawlapure**, a Computer Engineering student with a strong pa
 - 🎓 **Education**: BTech in Computer Engineering @ SGGS  
 - 🌱 **Currently Learning**:  
   - **DSA**: Recursion, Divide & Conquer, Stacks  
-  - **Python** from [official documentation](https://docs.python.org/)  
+  - **Python**. 
   - **MERN Stack Concept**  
 - 🔍 **Recent Focus**: Exploring AIML for my project:  
   **AI-Powered Resume Analyzer and Job Matcher**  
@@ -78,7 +78,7 @@ Hello! I'm **Sagar Dhawlapure**, a Computer Engineering student with a strong pa
 ## 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-dhawlapure/)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdhawalapure@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdhawalapure@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://sagardhawlapure.com)  
 [![Codolio](https://img.shields.io/badge/Codolio-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/dsagar)  
 
